@@ -2,7 +2,7 @@
 // Crear el area del circulo 
 import java.util.Scanner;
 
-public class _p02_AreaCircilo {
+public class _p02_AreaCirculo {
     public static void main(String[] args) {
         double radio, area;
         Scanner lradio = new Scanner(System.in);
