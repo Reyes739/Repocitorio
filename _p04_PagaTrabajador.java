@@ -17,6 +17,7 @@ public class _p04_PagaTrabajador {
         paga = obj.nextFloat();
         tasa = 0.3f;
         pagabruta = horas * paga;
+        impuesto = pagabruta * tasa;
         paganeta = pagabruta - impuesto;
 
         System.out.println("\nResumen de Pago\n");
