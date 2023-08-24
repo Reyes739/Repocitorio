@@ -15,7 +15,7 @@ public class _p14_CalculoTiempo {
         minutos = horas * 60.0;
         segundos = minutos * 60.0;
 
-        System.out.println("El valor de dias es     : " + horas);
+        System.out.println("El valor de dias es     : " + dias);
         System.out.println("El valor de minutos es  : " + minutos);
         System.out.println("El valor de segundos es : " + segundos);
     }

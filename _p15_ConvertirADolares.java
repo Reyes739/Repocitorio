@@ -13,7 +13,6 @@ public class _p15_ConvertirADolares {
         System.out.println("Dame la cotizacion del dolar?");
         cotisacion = obj.nextDouble();
 
-        // • celsius = (fahrenheit – 32) * (5/9).
         dolar = pesos / cotisacion;
 
         System.out.println("El valor del dolar es :" + dolar);
