@@ -87,3 +87,12 @@
 - _p58_Piramide
 - _p59_FactorialNumeros
 - _p60_SumaTerminos
+
+# Practica 4
+
+# Actividad 11
+- _p65_PromedioNumeros
+- _p66_ConversionTemperaturas
+- _p67_SumaRango
+- _p68_TablaMultiplicar
+- _p69_CalificacionLetra
