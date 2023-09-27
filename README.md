@@ -125,3 +125,8 @@
 - _p84_LeerArregloCalificaciones
 - _p85_NombresEdades
  
+# Actividad 14
+- _p86_ArregloMostrar
+- _p87_ArregloTemperaturas
+- _p88_Aleatorios
+- _p89_ArregloAleatorios
