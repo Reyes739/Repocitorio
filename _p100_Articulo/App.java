@@ -24,6 +24,7 @@ public class App {
         System.out.println("\nTodos los articulos");
         for (Articulo articulo : articulos) {
             System.out.println(articulo.toString());
+            
             totalVenta += articulo.getTotal();
         }
         System.out.println("Total venta: " + totalVenta);
