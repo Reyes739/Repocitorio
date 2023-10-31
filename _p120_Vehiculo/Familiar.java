@@ -1,4 +1,4 @@
-package _p119_Organismo._p120_Vehiculo;
+package _p120_Vehiculo;
 
 public interface Familiar {
     void carroceriaTresPartes();

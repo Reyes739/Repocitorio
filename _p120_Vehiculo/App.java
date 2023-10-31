@@ -1,4 +1,4 @@
-package _p119_Organismo._p120_Vehiculo;
+package _p120_Vehiculo;
 
 public class App {
     public static void main(String[] args) {
