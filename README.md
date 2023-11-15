@@ -226,5 +226,8 @@ _p141_LeyDeNewtonGUI
 - _p142_PagaTrabjador
 - _p143_Temperaturas
 
-# actividad 25
+# Actividad 25
 - _p145_EstudianteGUI_V1
+
+# Actividad 26
+- _p146_EstudianteGUI_V2
