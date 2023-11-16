@@ -231,3 +231,6 @@ _p141_LeyDeNewtonGUI
 
 # Actividad 26
 - _p146_EstudianteGUI_V2
+
+# Tercer Examen Parcial 
+- _p147_TercerExamenParcial
